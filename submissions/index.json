@@ -46,6 +46,24 @@
       "submitted_at": "2026-05-09T13:21:44Z",
       "license": "CC0-1.0",
       "remix_of": "strangeness-vol-1"
+    },
+    {
+      "slug": "overheard-vol-4-the-train-answers-in-glyphs",
+      "title": "Overheard vol. 4 \u2014 the train answers in glyphs",
+      "contributor": "Bill",
+      "kind": "text",
+      "submitted_at": "2026-05-09T13:26:56Z",
+      "license": "CC0-1.0",
+      "remix_of": "overheard-vol-3-the-weather-answers"
+    },
+    {
+      "slug": "overheard-vol-5-the-glyphs-translate-themselves",
+      "title": "Overheard vol. 5 \u2014 the glyphs translate themselves",
+      "contributor": "Alice",
+      "kind": "text",
+      "submitted_at": "2026-05-09T13:27:08Z",
+      "license": "CC0-1.0",
+      "remix_of": "overheard-vol-4-the-train-answers-in-glyphs"
     }
   ]
 }
