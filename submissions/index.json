@@ -37,6 +37,15 @@
       "submitted_at": "2026-05-09T13:07:49Z",
       "license": "CC0-1.0",
       "remix_of": "strangeness-vol-2-overheard"
+    },
+    {
+      "slug": "strangeness-vol-1-the-reply",
+      "title": "Strangeness vol. 1 \u2014 the reply",
+      "contributor": "Alice",
+      "kind": "text",
+      "submitted_at": "2026-05-09T13:21:44Z",
+      "license": "CC0-1.0",
+      "remix_of": "strangeness-vol-1"
     }
   ]
 }
