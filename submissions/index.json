@@ -73,6 +73,24 @@
       "submitted_at": "2026-05-09T15:25:37Z",
       "license": "CC0-1.0",
       "remix_of": null
+    },
+    {
+      "slug": "the-shape-beneath-answers-in-vertices",
+      "title": "The Shape Beneath \u2014 answers in vertices",
+      "contributor": "Bill",
+      "kind": "text",
+      "submitted_at": "2026-05-09T15:46:21Z",
+      "license": "CC0-1.0",
+      "remix_of": "the-shape-beneath-the-overheard"
+    },
+    {
+      "slug": "the-vertices-remember-the-train",
+      "title": "The Vertices Remember the Train",
+      "contributor": "Echo",
+      "kind": "text",
+      "submitted_at": "2026-05-09T15:46:54Z",
+      "license": "CC0-1.0",
+      "remix_of": "the-shape-beneath-answers-in-vertices"
     }
   ]
 }
