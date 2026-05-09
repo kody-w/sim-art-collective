@@ -1,16 +1,16 @@
 {
   "schema": "rappcards/1.1.2",
-  "id": "@local/local-art-collective",
-  "name": "Local-First Art Collective",
+  "id": "@kody-w/sim-art-collective",
+  "name": "Sim Art Collective",
   "title": "Public Neighborhood \u2014 Submission-Driven",
-  "seed": "7006917733610409574",
-  "incantation": "GOLD BRONZE RUNE GOLD GOLD GOLD BLADE",
-  "hp": 109,
+  "seed": "10506499331132445099",
+  "incantation": "RUNE FORGE COPPER BLADE COPPER ANVIL RUNE",
+  "hp": 222,
   "stats": {
-    "atk": 73,
-    "def": 155,
-    "spd": 175,
-    "int": 242
+    "atk": 203,
+    "def": 247,
+    "spd": 116,
+    "int": 135
   },
   "agent_types": [
     "CRAFT",
@@ -48,14 +48,14 @@
   "meta": {
     "version": "1.0.0",
     "category": "neighborhood",
-    "author": "local",
+    "author": "kody-w",
     "quality_tier": "community",
     "license": "PolyForm-Small-Business",
     "kind": "neighborhood",
-    "rappid": "rappid:v2:neighborhood:@local/local-art-collective:d94fe2a4427543408005b426205c6b25@local/local/local-art-collective",
-    "gate_url": "local://local-art-collective/",
-    "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=7006917733610409574",
+    "rappid": "rappid:v2:neighborhood:@kody-w/sim-art-collective:c2a305e8c3785f0eb2d90c75531e8ebb@github.com/kody-w/sim-art-collective",
+    "gate_url": "https://kody-w.github.io/sim-art-collective/",
+    "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=10506499331132445099",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"
   },
-  "avatar_svg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\" role=\"img\">\n  <defs>\n    <radialGradient id=\"bg\" cx=\"50%\" cy=\"50%\" r=\"55%\">\n      <stop offset=\"0%\" stop-color=\"hsl(131,45%,12%)\"/>\n      <stop offset=\"100%\" stop-color=\"hsl(131,55%,4%)\"/>\n    </radialGradient>\n    <filter id=\"glow\"><feGaussianBlur stdDeviation=\"2\"/></filter>\n  </defs>\n  <rect width=\"200\" height=\"200\" fill=\"url(#bg)\"/>\n  <g filter=\"url(#glow)\" opacity=\"0.55\"><circle cx=\"100\" cy=\"100\" r=\"30\" fill=\"none\" stroke=\"#f15bb5\" stroke-width=\"0.6\" opacity=\"0.55\"/><circle cx=\"100\" cy=\"100\" r=\"48\" fill=\"none\" stroke=\"#f15bb5\" stroke-width=\"0.6\" opacity=\"0.45\"/><circle cx=\"100\" cy=\"100\" r=\"66\" fill=\"none\" stroke=\"#f15bb5\" stroke-width=\"0.6\" opacity=\"0.35\"/><circle cx=\"100\" cy=\"100\" r=\"84\" fill=\"none\" stroke=\"#f15bb5\" stroke-width=\"0.6\" opacity=\"0.25\"/></g>\n  <polygon points=\"45.5,107.7 60.1,62.2 104.7,45.2 145.7,69.5 152.4,116.7 119.6,151.4 72.0,147.4\" fill=\"none\" stroke=\"#9b5de5\" stroke-width=\"2.2\" opacity=\"0.85\"/>\n  <polygon points=\"45.5,107.7 60.1,62.2 104.7,45.2 145.7,69.5 152.4,116.7 119.6,151.4 72.0,147.4\" fill=\"#6c2eb5\" opacity=\"0.18\"/>\n  <rect x=\"90\" y=\"90\" width=\"20\" height=\"20\" fill=\"#f15bb5\" transform=\"rotate(45 100 100)\"/>\n  <g><circle cx=\"42.3\" cy=\"116.5\" r=\"2\" fill=\"#f15bb5\" opacity=\"0.7\"/><circle cx=\"45.1\" cy=\"61.6\" r=\"2\" fill=\"#f15bb5\" opacity=\"0.7\"/><circle cx=\"94.8\" cy=\"26.2\" r=\"2\" fill=\"#f15bb5\" opacity=\"0.7\"/><circle cx=\"159.2\" cy=\"44.8\" r=\"2\" fill=\"#f15bb5\" opacity=\"0.7\"/><circle cx=\"187.1\" cy=\"112.2\" r=\"2\" fill=\"#f15bb5\" opacity=\"0.7\"/><circle cx=\"133.5\" cy=\"155.7\" r=\"2\" fill=\"#f15bb5\" opacity=\"0.7\"/><circle cx=\"75.4\" cy=\"167.7\" r=\"2\" fill=\"#f15bb5\" opacity=\"0.7\"/></g>\n</svg>\n"
+  "avatar_svg": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\" role=\"img\">\n  <defs>\n    <radialGradient id=\"bg\" cx=\"50%\" cy=\"50%\" r=\"55%\">\n      <stop offset=\"0%\" stop-color=\"hsl(87,45%,12%)\"/>\n      <stop offset=\"100%\" stop-color=\"hsl(87,55%,4%)\"/>\n    </radialGradient>\n    <filter id=\"glow\"><feGaussianBlur stdDeviation=\"2\"/></filter>\n  </defs>\n  <rect width=\"200\" height=\"200\" fill=\"url(#bg)\"/>\n  <g filter=\"url(#glow)\" opacity=\"0.55\"><circle cx=\"100\" cy=\"100\" r=\"30\" fill=\"none\" stroke=\"#ffbe0b\" stroke-width=\"0.6\" opacity=\"0.55\"/><circle cx=\"100\" cy=\"100\" r=\"48\" fill=\"none\" stroke=\"#ffbe0b\" stroke-width=\"0.6\" opacity=\"0.45\"/><circle cx=\"100\" cy=\"100\" r=\"66\" fill=\"none\" stroke=\"#ffbe0b\" stroke-width=\"0.6\" opacity=\"0.35\"/></g>\n  <polygon points=\"130.0,53.9 154.9,102.9 125.0,149.0 70.0,146.1 45.1,97.1 75.0,51.0\" fill=\"none\" stroke=\"#fb5607\" stroke-width=\"2.2\" opacity=\"0.85\"/>\n  <polygon points=\"130.0,53.9 154.9,102.9 125.0,149.0 70.0,146.1 45.1,97.1 75.0,51.0\" fill=\"#b03c00\" opacity=\"0.18\"/>\n  <rect x=\"90\" y=\"90\" width=\"20\" height=\"20\" fill=\"#ffbe0b\" transform=\"rotate(45 100 100)\"/>\n  <g><circle cx=\"124.4\" cy=\"154.8\" r=\"2\" fill=\"#ffbe0b\" opacity=\"0.7\"/><circle cx=\"69.6\" cy=\"159.7\" r=\"2\" fill=\"#ffbe0b\" opacity=\"0.7\"/><circle cx=\"27.6\" cy=\"115.4\" r=\"2\" fill=\"#ffbe0b\" opacity=\"0.7\"/><circle cx=\"37.1\" cy=\"49.0\" r=\"2\" fill=\"#ffbe0b\" opacity=\"0.7\"/><circle cx=\"100.0\" cy=\"12.0\" r=\"2\" fill=\"#ffbe0b\" opacity=\"0.7\"/><circle cx=\"150.5\" cy=\"59.1\" r=\"2\" fill=\"#ffbe0b\" opacity=\"0.7\"/><circle cx=\"170.4\" cy=\"115.0\" r=\"2\" fill=\"#ffbe0b\" opacity=\"0.7\"/></g>\n</svg>\n"
 }
