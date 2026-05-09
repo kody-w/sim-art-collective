@@ -1,0 +1,21 @@
+{
+  "schema": "rapp-neighborhood-members/1.0",
+  "neighborhood": "local/local-art-collective",
+  "updated_at": "2026-05-09T12:59:07Z",
+  "open_to_anyone": true,
+  "members": [
+    {
+      "rappid": "rappid:v2:twin:@local/bill-brainstem:6d6244abfc0c450bab0469fe848799c0@local/local/bill-brainstem",
+      "display_name": "Bill",
+      "joined_at": "2026-05-09T12:59:07Z",
+      "role": "contributor"
+    },
+    {
+      "rappid": "rappid:v2:twin:@local/alice-brainstem:d8e7b137cf494c96a5a2bbc51cf0c031@local/local/alice-brainstem",
+      "display_name": "Alice",
+      "joined_at": "2026-05-09T12:59:07Z",
+      "role": "contributor"
+    }
+  ],
+  "_note": "Members will be appended as Bill + Alice join."
+}

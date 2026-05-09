@@ -1,0 +1,42 @@
+{
+  "schema": "rapp-art-submissions-index/1.0",
+  "neighborhood_rappid": "rappid:v2:neighborhood:@local/local-art-collective:d94fe2a4427543408005b426205c6b25@local/local/local-art-collective",
+  "submissions": [
+    {
+      "slug": "strangeness-vol-1",
+      "title": "Strangeness vol. 1",
+      "contributor": "Bill",
+      "kind": "text",
+      "submitted_at": "2026-05-09T12:59:07Z",
+      "license": "CC0-1.0",
+      "remix_of": null
+    },
+    {
+      "slug": "overheard-on-the-train",
+      "title": "Overheard on the Train",
+      "contributor": "Alice",
+      "kind": "text",
+      "submitted_at": "2026-05-09T12:59:07Z",
+      "license": "CC0-1.0",
+      "remix_of": null
+    },
+    {
+      "slug": "strangeness-vol-2-overheard",
+      "title": "Strangeness vol. 2 (overheard)",
+      "contributor": "Bill",
+      "kind": "text",
+      "submitted_at": "2026-05-09T12:59:07Z",
+      "license": "CC0-1.0",
+      "remix_of": "overheard-on-the-train"
+    },
+    {
+      "slug": "overheard-vol-3-the-weather-answers",
+      "title": "Overheard vol. 3 \u2014 the weather answers",
+      "contributor": "Alice",
+      "kind": "text",
+      "submitted_at": "2026-05-09T13:07:49Z",
+      "license": "CC0-1.0",
+      "remix_of": "strangeness-vol-2-overheard"
+    }
+  ]
+}

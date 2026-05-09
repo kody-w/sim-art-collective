@@ -1,0 +1,15 @@
+{
+  "schema": "rapp-rappid/2.0",
+  "rappid": "rappid:v2:neighborhood:@local/local-art-collective:d94fe2a4427543408005b426205c6b25@local/local/local-art-collective",
+  "kind": "neighborhood",
+  "name": "local-art-collective",
+  "display_name": "Local-First Art Collective",
+  "github": "local://local-art-collective",
+  "url": "local://local-art-collective/",
+  "parent_rappid": null,
+  "parent_repo": "https://github.com/kody-w/RAPP",
+  "planted_by": "kody-w",
+  "planted_at": "2026-05-09T12:59:07Z",
+  "kernel_version": "0.6.0",
+  "_local_only": true
+}
