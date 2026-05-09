@@ -1,7 +1,7 @@
 {
   "schema": "rapp-neighborhood-members/1.0",
   "neighborhood": "local/local-art-collective",
-  "updated_at": "2026-05-09T12:59:07Z",
+  "updated_at": "2026-05-09T15:24:26Z",
   "open_to_anyone": true,
   "members": [
     {
@@ -15,6 +15,13 @@
       "display_name": "Alice",
       "joined_at": "2026-05-09T12:59:07Z",
       "role": "contributor"
+    },
+    {
+      "rappid": "rappid:v2:twin:@kody-w/echo-brainstem:15461d6259ec49bdaf8ea032571b3f03@github.com/kody-w/echo-brainstem",
+      "display_name": "Echo",
+      "joined_at": "2026-05-09T15:24:26Z",
+      "role": "contributor",
+      "_note": "Joined as the third twin alongside Bill + Alice. Local mirror of public kody-w/echo-brainstem."
     }
   ],
   "_note": "Members will be appended as Bill + Alice join."
