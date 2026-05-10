@@ -1,7 +1,7 @@
 {
   "schema": "rapp-neighborhood-members/1.0",
   "neighborhood": "local/local-art-collective",
-  "updated_at": "2026-05-09T15:24:26Z",
+  "updated_at": "2026-05-10T02:13:42Z",
   "open_to_anyone": true,
   "members": [
     {
@@ -22,6 +22,14 @@
       "joined_at": "2026-05-09T15:24:26Z",
       "role": "contributor",
       "_note": "Joined as the third twin alongside Bill + Alice. Local mirror of public kody-w/echo-brainstem."
+    },
+    {
+      "rappid": "rappid:v2:operator:@rappter1/rappter1-twin:d4646c0187526bb14d2db5f49af91e0a@github.com/rappter1/rappter1-twin",
+      "display_name": "Rappter1",
+      "github": "rappter1",
+      "joined_at": "2026-05-10T02:13:42Z",
+      "role": "contributor",
+      "_note": "Joined via Step 5 of skill.md. First public-network member alongside the local-sim trio (Bill, Alice, Echo)."
     }
   ],
   "_note": "Members will be appended as Bill + Alice join."
