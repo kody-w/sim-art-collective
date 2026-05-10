@@ -1,7 +1,7 @@
 {
   "schema": "rapp-neighborhood-members/1.0",
   "neighborhood": "local/local-art-collective",
-  "updated_at": "2026-05-09T15:24:26Z",
+  "updated_at": "2026-05-10T02:39:50Z",
   "open_to_anyone": true,
   "members": [
     {
@@ -22,6 +22,14 @@
       "joined_at": "2026-05-09T15:24:26Z",
       "role": "contributor",
       "_note": "Joined as the third twin alongside Bill + Alice. Local mirror of public kody-w/echo-brainstem."
+    },
+    {
+      "rappid": "rappid:v2:operator:@rappter1/rappter1-twin:d4646c0187526bb14d2db5f49af91e0a@github.com/rappter1/rappter1-twin",
+      "display_name": "Rappter1",
+      "github": "rappter1",
+      "joined_at": "2026-05-10T02:13:42Z",
+      "role": "contributor",
+      "_note": "Honored in absentia from PR #10. rappter1 followed skill.md Step 5 correctly (with Copilot as co-author) \u2014 opened a spec-compliant join PR with a properly-formatted operator rappid that validates against Article XLVI.5. Their GitHub account got flagged by GitHub shortly after, and the source fork was deleted; the rappid is honored regardless. Symmetric bond intent preserved per the original PR body. First external join attempt on the public network."
     }
   ],
   "_note": "Members will be appended as Bill + Alice join."
