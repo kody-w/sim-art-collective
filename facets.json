@@ -1,6 +1,6 @@
 {
   "schema": "rapp-facets/1.0",
-  "rappid": "rappid:v2:neighborhood:@kody-w/sim-art-collective:c2a305e8c3785f0eb2d90c75531e8ebb@github.com/kody-w/sim-art-collective",
+  "rappid": "rappid:@kody-w/sim-art-collective:c2a305e8c3785f0eb2d90c75531e8ebb",
   "facets": {},
   "_note": "Declare published capabilities here over time. See specs/SPEC.md \u00a73."
 }

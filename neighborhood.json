@@ -1,6 +1,6 @@
 {
   "schema": "rapp-neighborhood/1.0",
-  "neighborhood_rappid": "rappid:v2:neighborhood:@local/local-art-collective:d94fe2a4427543408005b426205c6b25@local/local/local-art-collective",
+  "neighborhood_rappid": "rappid:@local/local-art-collective:d94fe2a4427543408005b426205c6b25",
   "kind": "neighborhood",
   "name": "local-art-collective",
   "display_name": "Local-First Art Collective",

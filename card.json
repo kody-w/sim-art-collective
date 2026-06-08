@@ -46,13 +46,13 @@
   "retreat_cost": 2,
   "flavor_text": "The canvas IS the union of contributions.",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "category": "neighborhood",
     "author": "kody-w",
     "quality_tier": "community",
     "license": "PolyForm-Small-Business",
     "kind": "neighborhood",
-    "rappid": "rappid:v2:neighborhood:@kody-w/sim-art-collective:c2a305e8c3785f0eb2d90c75531e8ebb@github.com/kody-w/sim-art-collective",
+    "rappid": "rappid:@kody-w/sim-art-collective:c2a305e8c3785f0eb2d90c75531e8ebb",
     "gate_url": "https://kody-w.github.io/sim-art-collective/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=10506499331132445099",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"

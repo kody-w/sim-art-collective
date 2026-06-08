@@ -4,7 +4,7 @@ A planted RAPP neighborhood (gate).
 
 ## Identity
 
-- **Rappid:** `rappid:v2:neighborhood:@kody-w/sim-art-collective:c2a305e8c3785f0eb2d90c75531e8ebb@github.com/kody-w/sim-art-collective`
+- **Rappid:** `rappid:@kody-w/sim-art-collective:c2a305e8c3785f0eb2d90c75531e8ebb`
 - **Kind:** `neighborhood`
 - **Spec:** [`specs/SPEC.md`](./specs/SPEC.md)
 
